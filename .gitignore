@@ -1,0 +1,22 @@
+# Node
+node_modules/
+*.log
+
+# Rust / Tauri
+src-tauri/target/
+src-tauri/gen/schemas/
+
+# Internal working notes (handoff docs, etc.) — useful locally, not meant
+# for the public repo: quotes private conversation, narrates in-progress
+# debugging. docs/screenshots/ stays tracked; only this subfolder is ignored.
+docs/internal/
+
+# Internal planning notes — useful locally, not meant for the public repo.
+docs/ROADMAP.md
+docs/TODO.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
