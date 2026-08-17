@@ -9,10 +9,10 @@
 中文 | [English](README.en.md)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![Latest release](https://img.shields.io/github/v/release/xiincs/deepseek-harness-desktop)](https://github.com/xiincs/deepseek-harness-desktop/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/xiincs/deepseek-harness-desktop/total)](https://github.com/xiincs/deepseek-harness-desktop/releases)
+[![Latest release](https://img.shields.io/github/v/release/jizi-dragon/harness-desktop)](https://github.com/jizi-dragon/harness-desktop/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/jizi-dragon/harness-desktop/total)](https://github.com/jizi-dragon/harness-desktop/releases)
 
-**[⬇️ 立即下载](https://github.com/xiincs/deepseek-harness-desktop/releases/latest)** ·
+**[⬇️ 立即下载](https://github.com/jizi-dragon/harness-desktop/releases/latest)** ·
 [功能一览](#-这个应用能做什么) ·
 [常见问题](#-常见问题)
 
@@ -47,7 +47,7 @@ DeepSeek Harness 官方提供的是一个网页版工具——好用，但终究
 
 ## ⬇️ 下载
 
-前往 **[Releases 页面](https://github.com/xiincs/deepseek-harness-desktop/releases/latest)** 下载安装包：
+前往 **[Releases 页面](https://github.com/jizi-dragon/harness-desktop/releases/latest)** 下载安装包：
 
 | 系统 | 安装包 | 说明 |
 |---|---|---|

@@ -10,10 +10,10 @@ running quietly in the background when you close the window.
 [中文](README.md) | English
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![Latest release](https://img.shields.io/github/v/release/xiincs/deepseek-harness-desktop)](https://github.com/xiincs/deepseek-harness-desktop/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/xiincs/deepseek-harness-desktop/total)](https://github.com/xiincs/deepseek-harness-desktop/releases)
+[![Latest release](https://img.shields.io/github/v/release/jizi-dragon/harness-desktop)](https://github.com/jizi-dragon/harness-desktop/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/jizi-dragon/harness-desktop/total)](https://github.com/jizi-dragon/harness-desktop/releases)
 
-**[⬇️ Download now](https://github.com/xiincs/deepseek-harness-desktop/releases/latest)** ·
+**[⬇️ Download now](https://github.com/jizi-dragon/harness-desktop/releases/latest)** ·
 [Features](#-what-it-does) ·
 [FAQ](#-faq)
 
@@ -54,7 +54,7 @@ in your system tray, one click away, exactly where you left it.
 
 ## ⬇️ Download
 
-Head to the **[Releases page](https://github.com/xiincs/deepseek-harness-desktop/releases/latest)**
+Head to the **[Releases page](https://github.com/jizi-dragon/harness-desktop/releases/latest)**
 and grab the installer:
 
 | Platform | Installer | Notes |
